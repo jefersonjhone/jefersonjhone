@@ -1,7 +1,7 @@
 ## Bem vindo(a) ao meu repositório
 - 🌱 Atualmente estou estudando java e html
 
-<div align="center" style="display: flex flex-direction:row">
+<div style="display:flex flex-direction:row">
   <a href="https://https://www.linkedin.com/in/jeferson-carvalho-15155b145/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefersonjhone&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonjhone&layout=compact&langs_count=7&theme=dark"/>

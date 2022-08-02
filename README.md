@@ -1,5 +1,5 @@
 ## Bem vindo(a) ao meu repositório
-- 🌱 Atualmente estou estudando java e html
+- 🌱 Atualmente estou estudando java 
 
 <div align="center" style="display:flex flex-direction:row">
   <a href="https://https://www.linkedin.com/in/jeferson-carvalho-15155b145/">

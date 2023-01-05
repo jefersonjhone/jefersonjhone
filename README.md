@@ -1,5 +1,8 @@
-## Bem vindo(a) ao meu repositório
-- 🌱 Atualmente estou estudando java 
+## Bem vindo(a) 
+- 🌱 I am learning javascript, django and bootstrap 5
+- contact me for work together
+
+
 
 <div align="center" style="display:flex flex-direction:row">
   <a href="https://https://www.linkedin.com/in/jeferson-carvalho-15155b145/">

@@ -3,7 +3,7 @@
 - contact me for work together
 
 
-<img
+<<img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jefersonjhone&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
 <div align="center" style="display:flex flex-direction:row">

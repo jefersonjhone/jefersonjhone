@@ -14,7 +14,7 @@ I don't really know how you landed here, but I will try to show a little bit abo
 
 
 ## About me
-My name is Jeferson Jhone.I currently live in Bahia, Brazil, and I am a Computer Engineering student;
+My name is Jeferson Jhone. I currently live in Bahia, Brazil, and I am a Computer Engineering student;
 
 I have experience working with a variety of frameworks and technologies, including React and Angular for front-end development. On the backend, I am proficient in Django, Flask, Node.js and Next.
 And also work with MySQL to manage databases and I'm studying mongoDB.

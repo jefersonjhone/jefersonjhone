@@ -35,7 +35,7 @@ My name is Jeferson Jhone.I currently live in Bahia, Brazil, and I am a Computer
 I have experience working with a variety of frameworks and technologies, including React and Angular for front-end development. On the backend, I am proficient in Django, Flask, Node.js and Next.
 And also work with MySQL to manage databases and I'm studying mongoDB.
 
-I like learning new things and sharing knowledge, a passion I acquired teaching a semester-long programming course for high school students, and I want to get better and better at this.
+I like learning new things and sharing knowledge, a passion I acquired teaching a programming course for high school students, and I want to get better and better at this.
 
 ## Detailed information
 

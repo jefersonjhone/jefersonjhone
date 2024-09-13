@@ -10,15 +10,16 @@
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
     </a>
 </div>
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/jefersonjhone/jefersonjhone/blob/5d6b985f85c4f9ec56c11ffe9258cc8148670f3d/assets/Hi%2C%20I%20am%20Jeferson%20(2).gif" />
-
-
-<p align="center">
-I don't really know how you landed here, but I will try to show a little bit about myself for you. ;)
-
 <br>
-
-
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/jefersonjhone/jefersonjhone/blob/5d6b985f85c4f9ec56c11ffe9258cc8148670f3d/assets/Hi%2C%20I%20am%20Jeferson%20(2).gif" />
+<br>
+<br>
+<div align="center">
+<h4>
+    I don't really know how you landed here, but I will try to show a little bit about myself for you. ;)
+</h4>
+<br>
+</div>
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=jefersonjhone&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-five-wine-79.vercel.app/api/top-langs/?username=jefersonjhone&show_icons=true&theme=radical&layout=compact" />

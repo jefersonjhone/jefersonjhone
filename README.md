@@ -11,7 +11,7 @@
     </a>
 </div>
 <br>
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/jefersonjhone/jefersonjhone/blob/5d6b985f85c4f9ec56c11ffe9258cc8148670f3d/assets/Hi%2C%20I%20am%20Jeferson%20(2).gif" />
+<img align="center" style="margin-bottom:100px" height=200px width=100% src="https://github.com/jefersonjhone/jefersonjhone/blob/5d6b985f85c4f9ec56c11ffe9258cc8148670f3d/assets/Hi%2C%20I%20am%20Jeferson%20(2).gif" />
 <br>
 <br>
 <div align="center">
